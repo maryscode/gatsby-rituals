@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+    <g data-name="Cookie icon">
+        <g data-name="Cookie icon" transform="translate(10.001 13)">
+            <path data-name="Path 981" d="M32.512 45.905h-.115a18.348 18.348 0 0 1-15.132-13.08 1.232 1.232 0 1 1 2.38-.64 16.156 16.156 0 0 0 11.62 11.045 8.062 8.062 0 0 1 1.543-4 6.63 6.63 0 0 1 4.366-2.757A8.052 8.052 0 0 1 43 30.154c.443-2.79 2.019-4.645 4.448-5.186a14.188 14.188 0 0 0-15.02-10.163 1.2 1.2 0 0 1-1.329-1.116 1.233 1.233 0 0 1 1.132-1.329 16.641 16.641 0 0 1 17.957 13.473 1.258 1.258 0 0 1-.263 1.018 1.071 1.071 0 0 1-.952.443 3.131 3.131 0 0 0-.788.066c-1.723.3-2.675 1.625-2.823 3.923a1.242 1.242 0 0 1-1.083 1.149 5.575 5.575 0 0 0-4.76 5.285 1.2 1.2 0 0 1-.394.87 1.239 1.239 0 0 1-.886.328h-.541a4.157 4.157 0 0 0-2.9 1.805 5.39 5.39 0 0 0-1.07 3.528l.033.213a1.31 1.31 0 0 1-.328 1.083 1.287 1.287 0 0 1-.9.41z"/>
+            <path data-name="Path 982" d="M16.822 33.645a16.822 16.822 0 1 1 16.823-16.823 16.845 16.845 0 0 1-16.823 16.823zm0-31.183a14.361 14.361 0 1 0 14.361 14.36 14.366 14.366 0 0 0-14.361-14.36z"/>
+            <circle data-name="Ellipse 192" cx="2.084" cy="2.084" r="2.084" transform="translate(23.519 12.49)"/>
+            <circle data-name="Ellipse 193" cx="2.084" cy="2.084" r="2.084" transform="translate(18.447 20.729)"/>
+            <circle data-name="Ellipse 194" cx="2.084" cy="2.084" r="2.084" transform="translate(47.267 30.806)"/>
+            <circle data-name="Ellipse 195" cx="2.084" cy="2.084" r="2.084" transform="translate(37.009 40.505)"/>
+            <circle data-name="Ellipse 196" cx="1.346" cy="1.346" r="1.346" transform="translate(25.619 31.462)"/>
+            <circle data-name="Ellipse 197" cx="1.346" cy="1.346" r="1.346" transform="translate(45.15 37.206)"/>
+            <circle data-name="Ellipse 198" cx="1.346" cy="1.346" r="1.346" transform="translate(50.09 39.898)"/>
+            <circle data-name="Ellipse 199" cx=".755" cy=".755" r=".755" transform="translate(50.681 35.696)"/>
+            <circle data-name="Ellipse 200" cx="1.346" cy="1.346" r="1.346" transform="translate(11.669 24.027)"/>
+            <circle data-name="Ellipse 201" cx="1.346" cy="1.346" r="1.346" transform="translate(20.532 7.008)"/>
+            <circle data-name="Ellipse 202" cx="1.346" cy="1.346" r="1.346" transform="translate(4.891 16.347)"/>
+            <circle data-name="Ellipse 203" cx="2.084" cy="2.084" r="2.084" transform="translate(12.276 6.713)"/>
+            <circle data-name="Ellipse 204" cx="2.084" cy="2.084" r="2.084" transform="translate(10.307 15.608)"/>
+            <circle data-name="Ellipse 205" cx="2.084" cy="2.084" r="2.084" transform="translate(34.876 19.645)"/>
+            <circle data-name="Ellipse 206" cx="2.084" cy="2.084" r="2.084" transform="translate(32.792 27.851)"/>
+        </g>
+        <path data-name="Rectangle 329" style="fill:none" d="M0 0h72v72H0z"/>
+    </g>
+</svg>

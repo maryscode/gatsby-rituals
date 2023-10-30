@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342.001" height="72.001" viewBox="0 0 342.001 72.001">
+    <defs>
+        <filter id="0ru4x49vra" x="0" y="0" width="342.001" height="72.001" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur stdDeviation="1" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#0ru4x49vra)">
+        <path data-name="Pop up hover" d="M3.914 58.224h12.822L10.325 66zm.086 0a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h328a4 4 0 0 1 4 4v50.223a4 4 0 0 1-4 4z" transform="translate(3 1)" style="fill:#ebebeb"/>
+    </g>
+</svg>
