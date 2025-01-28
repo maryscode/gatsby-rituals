@@ -2,7 +2,7 @@ export const RitualsData = [
   {
     anchorId: "bedazzled-breathing",
     releaseDate: "Wed, 27 Dec 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-bedazzled-breathing",
       alt: `A collage titled "Bedazzled breathing" shows a woman walking down a fashion show runway holding a bedazzled oxygen tank.`,
@@ -16,7 +16,7 @@ export const RitualsData = [
   {
     anchorId: "morning-manifestation",
     releaseDate: "Wed, 13 Dec 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-morning-manifestation",
       alt: `A collage titled "Morning manifestations" shows a megaphone next to a woman in pajamas stretching.`,
@@ -30,7 +30,7 @@ export const RitualsData = [
   {
     anchorId: "weekly-wash",
     releaseDate: "Wed, 29 Nov 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-weekly-wash",
       alt: `A collage titled "Weekly wash" depicts a woman standing in front of a bubble bath. There are calendar dates coming out of the bubbles.`,
@@ -44,7 +44,7 @@ export const RitualsData = [
   {
     anchorId: "close-by",
     releaseDate: "Wed, 15 Nov 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-close-by",
       alt: `A collage titled "Close-by convenience" depicts a woman with multiple arms sitting on a chair. Tissues, a glass of water, a pillow, a sleep mask, a phone, a bag, and books are all within reach.`,
@@ -58,7 +58,7 @@ export const RitualsData = [
   {
     anchorId: "after-party-planner",
     releaseDate: "Wed, 01 Nov 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-after-party-planner",
       alt: `A collage titled "After-party planner" shows a woman standing next to a bed. To her left is a family at a picnic table and a charcoal grill.`,
@@ -72,7 +72,7 @@ export const RitualsData = [
   {
     anchorId: "great-indoors",
     releaseDate: "Wed, 18 Oct 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-great-indoors",
       alt: `A collage titled "The great indoors" shows a smiling woman surrounded by flowers, pillows, and a bird.`,
@@ -86,7 +86,7 @@ export const RitualsData = [
   {
     anchorId: "sputum-shield",
     releaseDate: "Wed, 04 Oct 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-sputum-shield",
       alt: `A collage titled "Sputum shield" shows a man with a towel draped over his chest that's repelling mucus.`,
@@ -100,7 +100,7 @@ export const RitualsData = [
   {
     anchorId: "scent-free-clean",
     releaseDate: "Wed, 20 Sep 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Jan 2025 00:00:00 -0400",
+    endDate: "Wed, 01 Jan 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-scent-free-clean",
       alt: `A collage titled "Scent-free clean" depicts a woman covering her nose with her arm. Next to her is a garbage can with a perfume bottle, a laundry detergent bottle, and flowers in it.`,
@@ -114,7 +114,7 @@ export const RitualsData = [
   {
     anchorId: "5-minute-cleanup",
     releaseDate: "Wed, 06 Sep 2023 00:00:00 -0400",
-    endDate: "Wed, 27 Dec 2023 00:00:00 -0400",
+    endDate: "Wed, 27 Dec 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-5-minute-cleanup",
       alt: 'A collage titled "5-minute cleanup" depicts a woman washing her dishes.',
@@ -128,7 +128,7 @@ export const RitualsData = [
   {
     anchorId: "bathtub-sink",
     releaseDate: "Wed, 30 Aug 2023 00:00:00 -0400",
-    endDate: "Wed, 27 Dec 2023 00:00:00 -0400",
+    endDate: "Wed, 27 Dec 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-bathtub-sink",
       alt: 'A collage titled "Bathtub sink" depicts a woman with flowers in her hair sitting in a bathtub, staring at the giant toothbrush she is holding.',
@@ -142,7 +142,7 @@ export const RitualsData = [
   {
     anchorId: "shop-stop",
     releaseDate: "Wed, 23 Aug 2023 00:00:00 -0400",
-    endDate: "Wed, 13 Dec 2023 00:00:00 -0400",
+    endDate: "Wed, 13 Dec 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-the-stop-and-shop",
       alt: 'A collage titled "The shop & stop" depicts a woman coughing and not paying attention to her full shopping cart. ',
@@ -156,7 +156,7 @@ export const RitualsData = [
   {
     anchorId: "stair-scoot",
     releaseDate: "Wed, 16 Aug 2023 00:00:00 -0400",
-    endDate: "Wed, 13 Dec 2023 00:00:00 -0400",
+    endDate: "Wed, 13 Dec 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-the-stair-scoot",
       alt: 'A collage titled "The stair scoot" depicts a grandmother and her grandson sitting on a patterned staircase.',
@@ -170,7 +170,7 @@ export const RitualsData = [
   {
     anchorId: "deodor-hunt",
     releaseDate: "Wed, 09 Aug 2023 00:00:00 -0400",
-    endDate: "Wed, 29 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 29 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-de-odor-hunt",
       alt: 'A collage titled "(De)odor hunt" depicts a woman holding up and reading a list, with photos of tropical trees visible behind her.',
@@ -184,7 +184,7 @@ export const RitualsData = [
   {
     anchorId: "pre-approved-parking",
     releaseDate: "Wed, 02 Aug 2023 00:00:00 -0400",
-    endDate: "Wed, 29 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 29 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-pre-approved-parking",
       alt: 'A collage titled "Pre-approved parking" depicts a black-and-white photo of a curious woman standing in front of a few cars and a restaurant visible in the background.',
@@ -198,7 +198,7 @@ export const RitualsData = [
   {
     anchorId: "elevators-only",
     releaseDate: "Wed, 26 Jul 2023 00:00:00 -0400",
-    endDate: "Wed, 15 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 15 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-elevators-only",
       alt: 'A collage titled "Elevators only" depicts a woman in the foreground, with people riding the elevator visible behind her. The image suggests that the woman is waiting for the elevator to arrive.',
@@ -212,7 +212,7 @@ export const RitualsData = [
   {
     anchorId: "secret-stash",
     releaseDate: "Wed, 19 Jul 2023 00:00:00 -0400",
-    endDate: "Wed, 15 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 15 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-the-secret-stash",
       alt: 'A collage titled "The secret stash" depicts a man sitting in a leather recliner and reading a newspaper. Beside him on the floor is a suitcase filled with medication, suggesting that he may be discreetly managing his medical condition.',
@@ -226,7 +226,7 @@ export const RitualsData = [
   {
     anchorId: "no-spice-snacking",
     releaseDate: "Wed, 12 Jul 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 01 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-no-spice-snacking",
       alt: 'A collage titled "No-spice snacking" depicts a woman running away from two plates full of spicy peppers and a bottle of hot sauce. The woman appears to be avoiding spicy food by any means.',
@@ -240,7 +240,7 @@ export const RitualsData = [
   {
     anchorId: "sticky-situations",
     releaseDate: "Wed, 05 Jul 2023 00:00:00 -0400",
-    endDate: "Wed, 01 Nov 2023 00:00:00 -0400",
+    endDate: "Wed, 01 Nov 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-sticky-situations",
       alt: 'A collage titled "Sticky situations" depicts a black-and-white image of a woman with numerous sticky notes stuck to her head and clothes.',
@@ -254,7 +254,7 @@ export const RitualsData = [
   {
     anchorId: "no-cook",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 18 Oct 2023 00:00:00 -0400",
+    endDate: "Wed, 18 Oct 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-no-cook-cookware",
       alt: 'A collage titled "No-cook cookware" shows the side profile of a woman staring into a steaming pot surrounded by various pots and pans.',
@@ -268,7 +268,7 @@ export const RitualsData = [
   {
     anchorId: "tiring-towels",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 18 Oct 2023 00:00:00 -0400",
+    endDate: "Wed, 18 Oct 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-tiring-towels",
       alt: 'A collage titled "Tiring towels" depicts a woman relaxing with a towel wrapped around her head and wearing a textured robe. She is resting with her eyes closed amidst a background of scattered towels. The towels appear to have been used and are in disarray. ',
@@ -282,7 +282,7 @@ export const RitualsData = [
   {
     anchorId: "battery-powered-boogie",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 04 Oct 2023 00:00:00 -0400",
+    endDate: "Wed, 04 Oct 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-battery-powered-boogie",
       alt: 'A collage titled "Battery-powered boogie" shows a man on a boat-inspired mobility chair, floating in the middle of the ocean, while using a pair of binoculars to look at the sunset in the distance.',
@@ -296,7 +296,7 @@ export const RitualsData = [
   {
     anchorId: "office-relay",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 04 Oct 2023 00:00:00 -0400",
+    endDate: "Wed, 04 Oct 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-the-office-relay",
       alt: 'A collage titled "The office relay" depicts a man wearing casual office attire running through the office with a wall of papers behind him, focused on getting to his destination. ',
@@ -310,7 +310,7 @@ export const RitualsData = [
   {
     anchorId: "tissue-tower",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 20 Sep 2023 00:00:00 -0400",
+    endDate: "Wed, 20 Sep 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-tissue-towers",
       alt: 'A collage titled "Tissue towers" depicts a woman standing and holding two plastic grocery bags, one filled to the brim with used tissues. Behind her, we see that her home has two giant used tissue papers on it, a result of her excessive tissue usage. ',
@@ -324,7 +324,7 @@ export const RitualsData = [
   {
     anchorId: "furniture-covers",
     releaseDate: "Mon, 12 Jun 2023 00:00:00 -0400",
-    endDate: "Wed, 20 Sep 2023 00:00:00 -0400",
+    endDate: "Wed, 20 Sep 3000 00:00:00 -0400",
     bgImage: {
       filename: "image-mural-bronchiectasis-ritual-unusual-furniture-covers",
       alt: 'A collage titled "Unusual furniture covers" depicts a woman and her dog sitting on an orange couch, with waves and the ocean visible behind them and on the floor.',
