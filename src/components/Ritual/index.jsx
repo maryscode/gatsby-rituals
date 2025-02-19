@@ -10,7 +10,6 @@ const Ritual = ({ children, bg, bgAlt, story, storyAlt, storyClass, id, zIndexRe
   const customZIndex = {
     zIndex: zIndexReverse
   }
-console.log('Lazy Loading Supported:', 'loading' in HTMLImageElement.prototype);
   return (
     
       <MuralStyles id={id} style={customZIndex} className="ritual">
