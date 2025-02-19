@@ -10,7 +10,7 @@ const Ritual = ({ children, bg, bgAlt, story, storyAlt, storyClass, id, zIndexRe
   const customZIndex = {
     zIndex: zIndexReverse
   }
-
+console.log('Lazy Loading Supported:', 'loading' in HTMLImageElement.prototype);
   return (
     
       <MuralStyles id={id} style={customZIndex} className="ritual">
@@ -20,8 +20,9 @@ const Ritual = ({ children, bg, bgAlt, story, storyAlt, storyClass, id, zIndexRe
           <img src={`/images/mural/rituals/${bg}.png`} alt={bgAlt} className="bg" loading="lazy" />      
         </picture>  
         
-        <div className="parallax-container">
-          {story ? <img src={`/images/mural/rituals/${story}`} alt={storyAlt} className={`story ${storyClass}`} /> : ''}
+        {/* <div className="parallax-container"> */}
+        <div className="">
+          {story ? <img src={`/images/mural/rituals/${story}`} alt={storyAlt} className={`story ${storyClass}`} loading="lazy" /> : ''}
         </div>
       </MuralStyles>
   );

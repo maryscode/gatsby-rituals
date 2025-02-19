@@ -12,10 +12,10 @@ console.log(`******\n\t gatsby-config, process.env.NODE_ENV = ${process.env.NODE
  */
 module.exports = {
   siteMetadata: {
-    author: "suneil.bansi@area23hc.com",
-    description: "AREA 23 GatsbyJS Framework",
+    author: "",
+    description: "",
     siteUrl: "https://www.speakupinbronchiectasis.com",
-    title: "AREA 23 GatsbyJS",
+    title: "",
     image: "images/icon.png",
   },
   plugins: [
@@ -95,28 +95,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-canonical-urls`,
+      resolve: 'gatsby-plugin-robots-txt',
       options: {
-        siteUrl: `https://www.speakupinbronchiectasis.com`,
-        stripQueryString: true,
-      },
-    },
-    {
-      resolve: "gatsby-plugin-google-tagmanager",
-      options: {
-        defaultDataLayer: function () {
-          return [];
-        },
-        id: "GTM-WTQZLKV",
-        includeInDevelopment: true,
-        routeChangeEventName: "gatsby-route-change",
-      },
-    },
-    {
-      resolve: `gatsby-plugin-facebook-pixel`,
-      options: {
-        pixelId: "944842393471522",
-      },
-    },
+        policy: [{ userAgent: '*', disallow: ['/'] }] // Prevents indexing of the entire site
+      }
+    }
   ],
 };
